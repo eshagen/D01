@@ -27,9 +27,9 @@ Python rocks!!!!
 3. See the ~~magic~~ beauty!
 
 ###Resources:
-[GitHub Help: Markdown Basics][1]
-[GitHub Help: GitHub Flavored Markdown][2]
-[GitHub Guides: Mastering Markdown][3]
++ [GitHub Help: Markdown Basics][1]
++ [GitHub Help: GitHub Flavored Markdown][2]
++ [GitHub Guides: Mastering Markdown][3]
 
 <!-- Links -->
 
