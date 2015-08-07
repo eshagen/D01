@@ -5,12 +5,18 @@
 
 From the command-line: `git clone [PASTE-URL]`
 
-##Add, Commit, and Pull
+##Add, Commit, and Push
 + Find out which files have been modified: `git status`
 + Add all files to stage for commit: `git add .`
     + OR: Add specific_file to stage for commit: `git add specific_file`
 + Commit changes: `git commit -m "[brief message re: commit]"`
 + Push to the master branch at your origin repo: git push origin master
+
+##Pull
++ Go to your repository on GitHub. Click the little green button that says, under hover:
+> Compare, review, create a pull request
++ Then click:
+> Create pull request
 
 ##[Fetch to update your repo from upstream][1]
 
