@@ -1,7 +1,6 @@
 #gitness:
     ##Fork & Clone
     + Fork on GitHub. Click the button.
-
     + Copy the HTTPS clone URL from *your* repository on Github.
 
     From the command-line: `git clone [PASTE-URL]`
