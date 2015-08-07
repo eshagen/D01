@@ -1,3 +1,4 @@
+#gitness:
 ##Fork & Clone
 + Fork on GitHub. Click the button.
 
@@ -10,7 +11,7 @@ From the command-line: `git clone [PASTE-URL]`
 + Add all files to stage for commit: `git add .`
     + OR: Add specific_file to stage for commit: `git add specific_file`
 + Commit changes: `git commit -m "[brief message re: commit]"`
-+ Push to the master branch at your origin: git push origin master
++ Push to the master branch at your origin repo: git push origin master
 
 ##[Fetch to update your repo from upstream][1]
 
