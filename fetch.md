@@ -8,6 +8,13 @@ git fetch upstream
 git merge upstream/master -m "fetching and merging"
 ```
 
+If **you** make a mistake and set the wrong upstream repo, you must remove it before adding the correct on (remove and confirm):
+
+```
+git remote rm upstream
+git remote -v
+```
+
 ###Resources
 + [GitHub Help: Configuring a remote for a fork][1]
 + [GitHub Help: Syncing a fork][2]
