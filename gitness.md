@@ -14,11 +14,11 @@
 ##Pull
 + Go to your repository on GitHub. Click the little green button that says, under hover:
 
-> Compare, review, create a pull request
+    > Compare, review, create a pull request
 
 + Then click:
 
-> Create pull request
+    > Create pull request
 
 ##[Fetch to update your repo from upstream][1]
 
@@ -26,7 +26,7 @@
 + [GitHub Help: Bootcamp / Good Resources for Learning Git and GitHub][2]
 + The Git Parable by Tom Preston-Werner
 
-> Git is a simple, but extremely powerful system. Most people try to teach Git by demonstrating a few dozen commands and then yelling “tadaaaaa.” I believe this method is flawed.
+    > Git is a simple, but extremely powerful system. Most people try to teach Git by demonstrating a few dozen commands and then yelling “tadaaaaa.” I believe this method is flawed.
 
 <!-- Links -->
 
