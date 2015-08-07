@@ -11,7 +11,7 @@
 + Commit changes: `git commit -m "[brief message re: commit]"`
 + Push to the master branch at your origin repo: `git push origin master`
 
-##Pull
+##Create pull request
 + Go to your repository on GitHub. Click the little green button that says, under hover:
 
     > Compare, review, create a pull request
@@ -24,7 +24,7 @@
 
 ##Resources
 + [GitHub Help: Bootcamp / Good Resources for Learning Git and GitHub][2]
-+ The Git Parable by Tom Preston-Werner
++ [The Git Parable by Tom Preston-Werner][3]
 
     > Git is a simple, but extremely powerful system. Most people try to teach Git by demonstrating a few dozen commands and then yelling “tadaaaaa.” I believe this method is flawed.
 
@@ -32,3 +32,4 @@
 
 [1]: https://github.com/python-boot-camp/D01/blob/master/fetch.md
 [2]: https://help.github.com/articles/good-resources-for-learning-git-and-github/
+[3]: http://tom.preston-werner.com/2009/05/19/the-git-parable.html
